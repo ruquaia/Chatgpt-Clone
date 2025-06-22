@@ -1,2 +1,2 @@
 # Chatgpt-Clone
-file:///C:/Users/rajar/OneDrive/Desktop/index.html
+# file:///C:/Users/rajar/OneDrive/Desktop/index.html
